@@ -4,14 +4,7 @@ This project demonstrates an end-to-end **Infrastructure as Code (IaC)** workflo
 It is designed for **DevOps beginners** and **cloud learners**, showcasing real-world practices such as modular Terraform, secure key handling, and application deployment on AWS.
 
 ### What this project covers
-- Modular Terraform architecture
-- Automated SSH key pair generation
-- Secure EC2 provisioning
-- Security group configuration
-- Public networking setup
-- Node.js runtime installation
-- Strapi application deployment
-- Application access via public IP
+
 
 ---
 
